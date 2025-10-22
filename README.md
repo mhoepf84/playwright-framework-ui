@@ -1,4 +1,4 @@
-Note: The total number of spec-files will be expanded over time. As of the posting of this repository, I have the groundwork/design approach established.
+Note: The total number of spec-files will be expanded over time. As of the posting of this repository, I have the framework's overall shape planned.
 # Video Demonstration
 A Youtube video will soon be placed here with some commentary demonstrating the run, as well as reporting tools.
 # Overview
