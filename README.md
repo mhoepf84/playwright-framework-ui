@@ -10,7 +10,8 @@ In short, the POM-files contain object-related information, which is linked to t
 Fixtures remove the repetition involved in preparing each test (e.g.: going to a site, inputting login information before every separate test). Using fixtures, these processes are automatically invoked.
 As a result of these, the spec-files are easy to maintain, as well as much leaner and easier to understand, at-a-glance.
 
-# Pre-requisites
+# Installation & Useful Commands
+As a pre-requisite, you will need Playwright and pytest installed.
 ```
 npm init playwright@latest
 ```
