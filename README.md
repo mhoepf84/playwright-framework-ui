@@ -13,8 +13,6 @@ As a result of these, the spec-files are easy to maintain, as well as much leane
 # Pre-requisites
 ```
 pip install pytest-playwright
-npm install --save-dev dotenv
-npm install --save-dev @playwright/test allure-playwright
 ```
 To visualize live testing:
 ```
