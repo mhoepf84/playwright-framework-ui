@@ -12,14 +12,16 @@ As a result of these, the spec-files are easy to maintain, as well as much leane
 
 # Pre-requisites
 ```
+npm init playwright@latest
+```
+```
 pip install pytest-playwright
 ```
-To visualize live testing:
+To invoke the visual testing interface:
 ```
 npx playwright test --ui
 ```
-
-To see the Allure report:
+To see the Allure report, after a full suite run:
 ```
 allure serve allure-results
 ```
