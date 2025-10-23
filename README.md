@@ -15,7 +15,7 @@ After cloning the repo, bear in mind that your first full job submit <ins>will f
 
 # Installation & Useful Commands
 
-As a pre-requisite, you will need Playwright and pytest installed. If there arny hiccups in the process, see the [documentation](https://playwright.dev/docs/intro#installing-playwright))
+As a pre-requisite, you will need Playwright and pytest installed. If there arny hiccups in the process, see the [documentation](https://playwright.dev/docs/intro#installing-playwright)
 ```
 npm install playwright
 ```
