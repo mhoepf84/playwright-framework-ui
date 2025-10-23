@@ -10,10 +10,14 @@ In short, the POM-files contain object-related information, which is linked to t
 Fixtures remove the repetition involved in preparing each test (e.g.: going to a site, inputting login information before every separate test). Using fixtures, these processes are automatically invoked.
 As a result of these, the spec-files are easy to maintain, as well as much leaner and easier to understand, at-a-glance.
 
+# <ins>**Important!**</ins>
+After cloning the repo, bear in mind that your first full job submit <ins>will fail</ins>. This is due to the fact that I use a check frequently, which performs a visual, screenshot comparison. By design, if Playwright doesn't find a file, it throws an error and deposits a screenshot. If run immediately afterward, this will result in a succesful completion. If, for some reason, you need to flush out these comparisons, simply delete the folders under "./tests/*.spec.ts-snapshots" (not the spec-files themselves).
+
 # Installation & Useful Commands
-As a pre-requisite, you will need Playwright and pytest installed.
+
+As a pre-requisite, you will need Playwright and pytest installed. If there arny hiccups in the process, see the [documentation](https://playwright.dev/docs/intro#installing-playwright))
 ```
-npm init playwright@latest
+npm install playwright
 ```
 ```
 pip install pytest-playwright
