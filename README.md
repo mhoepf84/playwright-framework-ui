@@ -18,6 +18,11 @@ As a pre-requisite, you will need Playwright installed. If there any hiccups in 
 ```
 npm install playwright
 ```
+When using the following command, just hit Enter and accept all defaults:
+```
+npm init playwright@latest
+```
+If there are any issues at this stage, try to restart the IDE you're using. VSCode sometimes does weird things when dealing with the Playwright plugin.
 To invoke the visual testing interface:
 ```
 npx playwright test --ui
