@@ -1,6 +1,6 @@
 Note: The total number of spec-files will be expanded over time. As of the posting of this repository, I have the framework's overall shape planned.
 # Video Demonstration
-[![Playwright Video Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=WEHrlFRcDQA)
+[![Playwright Video Demo](https://img.youtube.com/vi/WEHrlFRcDQA/0.jpg)](https://www.youtube.com/watch?v=WEHrlFRcDQA)
 # Overview
 The methods I'm using here apply some QA and Playwright best-practices (cited in their [online docs](https://playwright.dev/docs/best-practices)). Beyond test-writing etiquette, this also involves structural use of:
 - Page Object Model (POM)
