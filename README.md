@@ -27,3 +27,7 @@ To see the Allure report, after a full suite run:
 ```
 allure serve allure-results
 ```
+If Allure presents issues, you can attempt a clean command or manually delete the contents of its directory:
+```
+allure generate --clean --output your-result-folder
+```
