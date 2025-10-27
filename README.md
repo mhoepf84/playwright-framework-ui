@@ -1,4 +1,4 @@
-Note: The total number of spec-files will be expanded over time. As of the posting of this repository, I have the framework's overall shape planned.
+Note: The total number of spec-files will be expanded over time. As of the posting of this repository, the planning/layout of the POM/Fixtures are done and the remaining work is just using that as a template for other basic test cases.
 # Video Demonstration
 [![Playwright Video Demo](https://img.youtube.com/vi/WEHrlFRcDQA/0.jpg)](https://www.youtube.com/watch?v=WEHrlFRcDQA)
 # Overview
